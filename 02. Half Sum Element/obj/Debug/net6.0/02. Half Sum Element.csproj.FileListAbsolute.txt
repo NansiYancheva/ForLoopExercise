@@ -1,0 +1,15 @@
+C:\Visual Studio\UPR27.02\02. Half Sum Element\bin\Debug\net6.0\02. Half Sum Element.exe
+C:\Visual Studio\UPR27.02\02. Half Sum Element\bin\Debug\net6.0\02. Half Sum Element.deps.json
+C:\Visual Studio\UPR27.02\02. Half Sum Element\bin\Debug\net6.0\02. Half Sum Element.runtimeconfig.json
+C:\Visual Studio\UPR27.02\02. Half Sum Element\bin\Debug\net6.0\02. Half Sum Element.dll
+C:\Visual Studio\UPR27.02\02. Half Sum Element\bin\Debug\net6.0\ref\02. Half Sum Element.dll
+C:\Visual Studio\UPR27.02\02. Half Sum Element\bin\Debug\net6.0\02. Half Sum Element.pdb
+C:\Visual Studio\UPR27.02\02. Half Sum Element\obj\Debug\net6.0\02. Half Sum Element.csproj.AssemblyReference.cache
+C:\Visual Studio\UPR27.02\02. Half Sum Element\obj\Debug\net6.0\02. Half Sum Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\UPR27.02\02. Half Sum Element\obj\Debug\net6.0\02. Half Sum Element.AssemblyInfoInputs.cache
+C:\Visual Studio\UPR27.02\02. Half Sum Element\obj\Debug\net6.0\02. Half Sum Element.AssemblyInfo.cs
+C:\Visual Studio\UPR27.02\02. Half Sum Element\obj\Debug\net6.0\02. Half Sum Element.csproj.CoreCompileInputs.cache
+C:\Visual Studio\UPR27.02\02. Half Sum Element\obj\Debug\net6.0\02. Half Sum Element.dll
+C:\Visual Studio\UPR27.02\02. Half Sum Element\obj\Debug\net6.0\ref\02. Half Sum Element.dll
+C:\Visual Studio\UPR27.02\02. Half Sum Element\obj\Debug\net6.0\02. Half Sum Element.pdb
+C:\Visual Studio\UPR27.02\02. Half Sum Element\obj\Debug\net6.0\02. Half Sum Element.genruntimeconfig.cache

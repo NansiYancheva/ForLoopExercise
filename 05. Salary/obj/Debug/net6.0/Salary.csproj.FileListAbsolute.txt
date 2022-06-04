@@ -1,0 +1,14 @@
+C:\Visual Studio\UPR27.02\Salary\bin\Debug\net6.0\Salary.exe
+C:\Visual Studio\UPR27.02\Salary\bin\Debug\net6.0\Salary.deps.json
+C:\Visual Studio\UPR27.02\Salary\bin\Debug\net6.0\Salary.runtimeconfig.json
+C:\Visual Studio\UPR27.02\Salary\bin\Debug\net6.0\Salary.dll
+C:\Visual Studio\UPR27.02\Salary\bin\Debug\net6.0\ref\Salary.dll
+C:\Visual Studio\UPR27.02\Salary\bin\Debug\net6.0\Salary.pdb
+C:\Visual Studio\UPR27.02\Salary\obj\Debug\net6.0\Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\UPR27.02\Salary\obj\Debug\net6.0\Salary.AssemblyInfoInputs.cache
+C:\Visual Studio\UPR27.02\Salary\obj\Debug\net6.0\Salary.AssemblyInfo.cs
+C:\Visual Studio\UPR27.02\Salary\obj\Debug\net6.0\Salary.csproj.CoreCompileInputs.cache
+C:\Visual Studio\UPR27.02\Salary\obj\Debug\net6.0\Salary.dll
+C:\Visual Studio\UPR27.02\Salary\obj\Debug\net6.0\ref\Salary.dll
+C:\Visual Studio\UPR27.02\Salary\obj\Debug\net6.0\Salary.pdb
+C:\Visual Studio\UPR27.02\Salary\obj\Debug\net6.0\Salary.genruntimeconfig.cache

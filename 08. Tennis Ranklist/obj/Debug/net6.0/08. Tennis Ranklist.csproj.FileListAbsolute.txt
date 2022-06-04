@@ -1,0 +1,14 @@
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\net6.0\08. Tennis Ranklist.exe
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\net6.0\08. Tennis Ranklist.deps.json
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\net6.0\08. Tennis Ranklist.runtimeconfig.json
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\net6.0\08. Tennis Ranklist.dll
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\net6.0\ref\08. Tennis Ranklist.dll
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\net6.0\08. Tennis Ranklist.pdb
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net6.0\08. Tennis Ranklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net6.0\08. Tennis Ranklist.AssemblyInfoInputs.cache
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net6.0\08. Tennis Ranklist.AssemblyInfo.cs
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net6.0\08. Tennis Ranklist.csproj.CoreCompileInputs.cache
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net6.0\08. Tennis Ranklist.dll
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net6.0\ref\08. Tennis Ranklist.dll
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net6.0\08. Tennis Ranklist.pdb
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net6.0\08. Tennis Ranklist.genruntimeconfig.cache

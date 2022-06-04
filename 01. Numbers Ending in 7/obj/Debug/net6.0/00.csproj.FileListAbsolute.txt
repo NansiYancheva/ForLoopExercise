@@ -1,0 +1,15 @@
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\00\bin\Debug\net6.0\00.exe
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\00\bin\Debug\net6.0\00.deps.json
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\00\bin\Debug\net6.0\00.runtimeconfig.json
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\00\bin\Debug\net6.0\00.dll
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\00\bin\Debug\net6.0\ref\00.dll
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\00\bin\Debug\net6.0\00.pdb
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\00\obj\Debug\net6.0\00.csproj.AssemblyReference.cache
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\00\obj\Debug\net6.0\00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\00\obj\Debug\net6.0\00.AssemblyInfoInputs.cache
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\00\obj\Debug\net6.0\00.AssemblyInfo.cs
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\00\obj\Debug\net6.0\00.csproj.CoreCompileInputs.cache
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\00\obj\Debug\net6.0\00.dll
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\00\obj\Debug\net6.0\ref\00.dll
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\00\obj\Debug\net6.0\00.pdb
+C:\Visual Studio\For Loop - Exercise\For Loop - Exercise\00\obj\Debug\net6.0\00.genruntimeconfig.cache

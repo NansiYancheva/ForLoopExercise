@@ -1,0 +1,15 @@
+C:\Visual Studio\UPR27.02\04. Clever Lily\bin\Debug\net6.0\04. Clever Lily.exe
+C:\Visual Studio\UPR27.02\04. Clever Lily\bin\Debug\net6.0\04. Clever Lily.deps.json
+C:\Visual Studio\UPR27.02\04. Clever Lily\bin\Debug\net6.0\04. Clever Lily.runtimeconfig.json
+C:\Visual Studio\UPR27.02\04. Clever Lily\bin\Debug\net6.0\04. Clever Lily.dll
+C:\Visual Studio\UPR27.02\04. Clever Lily\bin\Debug\net6.0\ref\04. Clever Lily.dll
+C:\Visual Studio\UPR27.02\04. Clever Lily\bin\Debug\net6.0\04. Clever Lily.pdb
+C:\Visual Studio\UPR27.02\04. Clever Lily\obj\Debug\net6.0\04. Clever Lily.csproj.AssemblyReference.cache
+C:\Visual Studio\UPR27.02\04. Clever Lily\obj\Debug\net6.0\04. Clever Lily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\UPR27.02\04. Clever Lily\obj\Debug\net6.0\04. Clever Lily.AssemblyInfoInputs.cache
+C:\Visual Studio\UPR27.02\04. Clever Lily\obj\Debug\net6.0\04. Clever Lily.AssemblyInfo.cs
+C:\Visual Studio\UPR27.02\04. Clever Lily\obj\Debug\net6.0\04. Clever Lily.csproj.CoreCompileInputs.cache
+C:\Visual Studio\UPR27.02\04. Clever Lily\obj\Debug\net6.0\04. Clever Lily.dll
+C:\Visual Studio\UPR27.02\04. Clever Lily\obj\Debug\net6.0\ref\04. Clever Lily.dll
+C:\Visual Studio\UPR27.02\04. Clever Lily\obj\Debug\net6.0\04. Clever Lily.pdb
+C:\Visual Studio\UPR27.02\04. Clever Lily\obj\Debug\net6.0\04. Clever Lily.genruntimeconfig.cache
